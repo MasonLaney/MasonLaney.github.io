@@ -29,7 +29,7 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   Documents: 
-    - Resume: "resume"
+    - Résumé: "resume"
     - Curriculum Vitae: "curriculum-vitae"
   About Me: "about-me"
 #  Resources:
@@ -43,7 +43,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/headshot.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -66,7 +66,7 @@ social-network-links:
    linkedin: mason-laney-1504b5208
    github: MasonLaney
    ORCID: 0009-0008-7728-2903
-   google-scholar: "https://scholar.google.com/citations?user=JoI1ExUAAAAJ&hl"
+   google-scholar: "https://scholar.google.com/citations?user=JoI1ExUAAAAJ&hl=en&oi=ao"
 #  youtube: "@masonlaney1565"
 #  twitter: daattali
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
