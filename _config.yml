@@ -125,7 +125,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: false
@@ -139,7 +139,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "mason, laney, masonlaney, unc, nlp, ai, education"
 
 ######################################
 # --- Colours / background image --- #
